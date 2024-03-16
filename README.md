@@ -27,7 +27,7 @@ Deixe uma estrela nesse repositório!
 
 Envie os problemas resolvidos para o e-mail: *itamaralvesprofi@gmail.com*, pode enviar zipado ou enviar a URL do seu repositório em alguma plataforma como: Github, GitLab, entre outras.
 
-Envie do mesmo e-mail que realizou a inscrição.
+Envie com o mesmo e-mail que realizou a inscrição.
 
 ### Dica: Assim que terminar um problema, envie-o, e depois vá para o outro problema, pois o primeiro que enviar e estiver correto vence aquele problema.
 
