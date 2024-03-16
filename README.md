@@ -17,7 +17,7 @@ Cada problema vale 100 pontos.
 
 ## Como Participar
 
-Para resolver os problemas, siga as instruções em cada arquivo de problema. Boa sVEncorte!
+Para resolver os problemas, siga as instruções em cada arquivo de problema. Boa sorte!
 
 ## Contribuindo
 
